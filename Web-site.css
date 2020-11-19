@@ -179,10 +179,6 @@ h1,h2,h3,h4,h5,h6
 .authorization-link:hover
 {
     color: rgb(247, 89, 89);
-}
-
-.authorization-link:hover:after
-{
     opacity: 1;
 }
 
